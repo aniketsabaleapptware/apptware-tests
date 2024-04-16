@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "firstName": "Smith",
+  "lastName": "ABC",
+  "age": 23,
+  "address": {
+    "street": "123 Main Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zipcode": "12345"
+  }
+}
